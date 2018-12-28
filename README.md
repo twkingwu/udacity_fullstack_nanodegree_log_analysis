@@ -1,5 +1,5 @@
 # Udacity Fullstack Nanodegree 
-## Project Name: Log Analysis
+## Project Name: Logs Analysis
 
 ### How to Run
 1. Install Python3, Vagrant, and VirtualBox from the web.
